@@ -1,0 +1,4 @@
+#Ignorar archivos de texto
+*.txt 
+
+#Al usar esta función no se ve el archivo con terminación .txt
